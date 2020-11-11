@@ -1,0 +1,71 @@
+section{
+    margin-top: 15%;
+}
+article{
+    background-color: white;
+    width: 20%;
+    margin: 40px auto;
+    border-radius: 4px;
+    border: 2px solid gray;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    box-shadow: 5px 5px 10px grey;
+}
+article div{
+    padding-bottom: 20px;
+}
+article input{
+    width: 83%;
+}
+form{
+    margin-left: 10%;
+}.topnav{
+    
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0px 5px 10px grey;
+    width: 100%;
+    top: 0px;
+    position: fixed;
+    left: 0px;
+
+    
+   }
+.topnav a {
+    float: right;
+    background-color: rgb(17, 122, 221);
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 10px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    
+}
+    
+form button{
+    width: 85%;
+}
+header div{
+    background-color: red;}
+div button{
+        border-radius: 4px;
+    }
+body{
+        background-color: lightskyblue;
+        
+
+
+    
+}
+
+
+
+
+
+
+
